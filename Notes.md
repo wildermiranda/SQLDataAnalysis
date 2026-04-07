@@ -1,0 +1,1 @@
+Adicionar o arquivo de criação do banco de dados no Github.
