@@ -24,7 +24,7 @@ O **schema** Sales (Vendas) possui uma ou mais tabelas; Tabelas existentes dentr
 
 Diagrama de relacionamento entre as tabelas:
 
-![Diagrama](Diagrama.pdf)
+![Diagrama](docs/Diagrama.jpg)
 
 ## SELECT
 
@@ -823,7 +823,7 @@ having count(*) > 10
 
 É usado para relacionar informações entre tabelas e existem 4 tipos de Joins. Os mais usados são `LEFT JOIN` e `INNER JOIN`.
 
-![Joins](Joins.png)
+![Joins](docs/Joins.png)
 
 ### LEFT JOIN
 
